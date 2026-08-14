@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-maestriaentic.svg" alt="Maestría en Tecnologías de Información y Comunicación - Universidad del Zulia" width="100%">
+  <img src="./assets/banner-maestriaentic.png" alt="Maestría en Tecnologías de Información y Comunicación - Universidad del Zulia" width="100%">
 </p>
 
 <p align="center">
