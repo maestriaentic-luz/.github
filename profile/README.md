@@ -1,107 +1,179 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner-maestriaentic.svg" alt="Maestría en Tecnologías de Información y Comunicación - Universidad del Zulia" width="100%">
+</p>
 
-<img src="./assets/banner-maestria-tic-luz.png" alt="Universidad del Zulia — Maestría en Tecnologías de Información y Comunicación. Investigación, innovación y transformación digital con impacto social." width="100%">
+<p align="center">
+  <a href="#programa">Programa</a> ·
+  <a href="#plan-de-estudios">Plan de estudios</a> ·
+  <a href="#perfil-del-egresado">Perfil del egresado</a> ·
+  <a href="#admisión">Admisión</a> ·
+  <a href="#asignaturas-y-recursos">Asignaturas</a> ·
+  <a href="#contacto">Contacto</a>
+</p>
 
-[Conoce el programa](#conoce-el-programa) · [Plan de estudios](#plan-de-estudios) · [Admisión](#admisión) · [Investigación](#investigación)
+<p align="center">
+  <img alt="32 unidades de crédito" src="https://img.shields.io/badge/Plan_de_estudios-32_UC-D0BB34?style=for-the-badge&labelColor=1C1E6E">
+  <img alt="Modalidad de posgrado" src="https://img.shields.io/badge/Nivel-Posgrado-FFFFFF?style=for-the-badge&labelColor=2350D2&color=5375C8">
+  <img alt="Universidad del Zulia" src="https://img.shields.io/badge/Institución-LUZ-D0BB34?style=for-the-badge&labelColor=1C1E6E">
+</p>
 
-</div>
+> [!IMPORTANT]
+> **Convocatoria 2026-I cerrada.** La información de una próxima cohorte se publicará cuando sea anunciada oficialmente. Para consultas, escribe a [mticluz.admision@gmail.com](mailto:mticluz.admision@gmail.com).
 
----
+## Programa
 
-## Conoce el programa
+La **Maestría en Tecnologías de Información y Comunicación** de la Universidad del Zulia es un programa de formación avanzada orientado al estudio, diseño y aplicación de soluciones tecnológicas para responder a desafíos académicos, productivos y sociales.
 
-La **Maestría en Tecnologías de Información y Comunicación de la Universidad del Zulia** es un programa de formación avanzada orientado al estudio, diseño y aplicación de soluciones tecnológicas para responder a necesidades académicas, científicas y organizacionales.
+El programa integra fundamentos de computación, ingeniería de software, bases de datos, redes, sistemas distribuidos, inteligencia artificial, análisis de datos e investigación. Su propósito es formar profesionales capaces de liderar procesos de transformación digital, generar conocimiento científico aplicado y contribuir al desarrollo sostenible de su entorno.
 
-Integra fundamentos de computación, gestión de información, análisis de datos, ingeniería de software, sistemas inteligentes e investigación aplicada.
+### ¿A quién está dirigida?
 
-## La Maestría en cifras
+- Personal académico y de investigación en áreas relacionadas con las TIC.
+- Profesionales en Computación, Informática, Sistemas y Telecomunicaciones.
+- Egresados de ingenierías, licenciaturas y carreras afines interesados en investigación e innovación tecnológica.
 
-| 32 unidades crédito | Título académico | Institución | Orientación |
-|:---:|:---:|:---:|:---:|
-| **32 UC** | **Magíster Scientiarum** | **Universidad del Zulia** | **Investigación aplicada** |
+## La maestría en cifras
+
+| Grado | Duración académica | Carga total | Orientación |
+|:--|:--:|:--:|:--|
+| **Magíster Scientiarum en Tecnologías de Información y Comunicación** | 4 semestres | **32 UC** | Investigación aplicada |
 
 ## Elige tu ruta
 
 | Aspirantes | Estudiantes | Investigadores |
-|---|---|---|
-| Conoce el perfil de ingreso, los requisitos y el proceso de admisión. | Consulta asignaturas, recursos académicos y proyectos. | Explora líneas de investigación, producción académica y oportunidades de colaboración. |
-| [Información de admisión](#admisión) | [Plan de estudios](#plan-de-estudios) | [Investigación](#investigación) |
+|:--|:--|:--|
+| Conoce el perfil de ingreso, el proceso de selección y el plan de estudios. | Accede progresivamente a programas, recursos y proyectos de las asignaturas. | Explora áreas de conocimiento, líneas de trabajo y producción académica. |
+| [Ir a Admisión](#admisión) | [Ver asignaturas](#asignaturas-y-recursos) | [Explorar áreas](#áreas-de-conocimiento) |
+
+## Perfil del egresado
+
+La persona egresada será un profesional integral, con compromiso social y capacidad técnica para liderar procesos de transformación digital. Estará en capacidad de:
+
+- Diseñar, implementar, mantener y evaluar soluciones complejas de software, datos, redes, sistemas distribuidos e inteligencia artificial.
+- Generar y difundir conocimiento científico aplicado mediante proyectos y redes de investigación nacionales e internacionales.
+- Asesorar y transferir conocimiento especializado a universidades, comunidades y organizaciones de los sectores público y privado.
+- Contribuir a la reducción de la brecha digital y a la inclusión social mediante la formación de talento humano.
+- Resolver problemas del entorno con una perspectiva interdisciplinaria, ética y sostenible.
+- Mantener un proceso de aprendizaje continuo ante la evolución de las tecnologías.
 
 ## Áreas de conocimiento
 
-- Inteligencia Artificial y sistemas inteligentes
-- Ingeniería y arquitectura de software
-- Datos, analítica e inteligencia de negocios
-- Tecnologías de Información y Comunicación
-- Gestión de información y transformación digital
-- Metodología e investigación aplicada
+<p align="center">
+  <img alt="Inteligencia artificial" src="https://img.shields.io/badge/Inteligencia-Artificial-2350D2?style=flat-square">
+  <img alt="Ingeniería de software" src="https://img.shields.io/badge/Ingeniería_de-Software-1C1E6E?style=flat-square">
+  <img alt="Datos" src="https://img.shields.io/badge/Datos_y-Analítica-5375C8?style=flat-square">
+  <img alt="Redes" src="https://img.shields.io/badge/Redes_y-Sistemas_Distribuidos-2350D2?style=flat-square">
+  <img alt="Investigación" src="https://img.shields.io/badge/Investigación-Aplicada-D0BB34?style=flat-square&labelColor=1C1E6E">
+</p>
 
 ## Plan de estudios
 
-El programa contempla **32 unidades crédito** distribuidas entre asignaturas obligatorias, asignaturas electivas, formación para la investigación y el trabajo de grado.
+### I semestre · 8 UC
 
-La información detallada de cada asignatura —propósito, contenidos, estrategias de aprendizaje y referencias— se incorporará progresivamente en repositorios académicos específicos.
+| Unidad curricular | UC |
+|:--|:--:|
+| Fundamentos de la Computación | 2 |
+| Ingeniería del Software y Base de Datos | 2 |
+| Redes y Sistemas Distribuidos | 2 |
+| Sistemas Inteligentes | 2 |
 
-## Asignaturas destacadas
+### II semestre · 9 UC
 
-- Sistemas Inteligentes
-- Ingeniería de Software y Bases de Datos
-- Análisis y Procesamiento Estadístico de Datos
-- Arquitectura de Software
-- Interacción y Experiencia de Usuario
-- Gerencia de Proyectos de Investigación
-- Ingeniería de Plataformas Digitales
+| Unidad curricular | UC |
+|:--|:--:|
+| Electiva I | 2 |
+| Electiva II | 2 |
+| Formulación de un Problema de Investigación en TIC | 2 |
+| Análisis y Procesamiento Estadístico de Datos | 3 |
 
-## Investigación
+### III semestre · 9 UC
 
-El programa promueve proyectos vinculados con:
+| Unidad curricular | UC |
+|:--|:--:|
+| Electiva III | 2 |
+| Electiva IV | 2 |
+| Redacción Técnica de Investigación Avanzada en TIC | 2 |
+| Gerencia de Proyectos de Investigación | 3 |
 
-- Inteligencia Artificial, agentes y sistemas basados en conocimiento
-- Ingeniería, calidad y arquitectura de software
-- Ciencia, ingeniería y analítica de datos
-- Plataformas digitales y computación en la nube
-- Interacción humano-computador y experiencia de usuario
-- Aplicación estratégica de las TIC en organizaciones y comunidades
+### IV semestre · 6 UC
 
-## Proyectos y producción académica
+| Unidad curricular | UC |
+|:--|:--:|
+| Trabajo de Grado: ejecución y presentación de resultados de investigación en TIC | 6 |
 
-Este espacio reunirá progresivamente:
+<p align="right"><strong>Total: 32 unidades de crédito</strong></p>
 
-- Proyectos y prototipos desarrollados por estudiantes
-- Trabajos de grado y resultados de investigación
-- Artículos, ponencias y presentaciones académicas
-- Recursos abiertos y demostraciones tecnológicas
-- Repositorios asociados con asignaturas y líneas de investigación
+<details>
+<summary><strong>Materias electivas</strong></summary>
 
-## Comunidad académica
+- Administración e Implantación de Bases de Datos
+- Almacenes y Minería de Datos
+- Base de Datos Orientada a Objetos
+- Ingeniería de Requisitos
+- Interacción Humano-Computador
+- Prueba de Software
+- Teoría y Métodos de las TIC
+- Administración de Proyectos Telemáticos
+- Auditoría Telemática Avanzada
+- Codificación y Compresión de Datos
+- Seguridad Telemática Avanzada
+- Bioinformática
+- Lingüística Computacional
+- Introducción a los Agentes Inteligentes
 
-La sección de comunidad presentará al personal docente, investigadores, estudiantes y egresados vinculados con el programa, junto con sus perfiles profesionales y académicos en **LinkedIn, ORCID, Google Scholar y GitHub**, cuando estén disponibles.
+> La oferta de electivas puede variar según la planificación académica de cada cohorte.
 
-## Tecnologías
-
-`Python` · `JavaScript` · `SQL` · `GitHub` · `Docker` · `Cloud Computing` · `Machine Learning` · `RAG` · `Bases de datos` · `Analítica de datos`
+</details>
 
 ## Admisión
 
-Aquí se publicarán la convocatoria vigente, requisitos de ingreso, documentos requeridos, cronograma, aranceles y canales oficiales de atención.
+### Requisitos generales de ingreso
 
-> **Importante:** las fechas, los aranceles y los datos administrativos deben verificarse siempre en la convocatoria vigente del programa.
+1. Poseer un título de licenciatura o ingeniería en Computación, Sistemas, Informática, Telecomunicaciones o un área relacionada.
+2. Contar con un promedio mínimo de **13 puntos** en los estudios de pregrado.
+3. Participar en el proceso de preinscripción y selección.
+4. Presentar los recaudos solicitados por la coordinación del programa.
 
-## Contacto y enlaces institucionales
+### Proceso de selección
 
-- **Universidad del Zulia**
-- **Facultad Experimental de Ciencias**
-- **Postgrado de la Facultad Experimental de Ciencias**
-- **Maestría en Tecnologías de Información y Comunicación**
+~~~mermaid
+flowchart LR
+    A["Evaluación de credenciales"] --> B["Prueba de conocimientos"]
+    B --> C["Entrevista"]
+    C --> D["Resultado de admisión"]
+~~~
 
-Los canales oficiales de contacto y las redes profesionales serán incorporados después de su validación institucional.
+Los recaudos, aranceles, fechas y datos administrativos pueden cambiar entre cohortes. Antes de realizar cualquier pago o consignación, solicita la convocatoria y el instructivo vigentes a la coordinación.
+
+## Asignaturas y recursos
+
+Este espacio se ampliará progresivamente con los programas oficiales de las unidades curriculares, bibliografía, recursos de aprendizaje, proyectos estudiantiles y resultados de investigación.
+
+| Componente | Próximamente |
+|:--|:--:|
+| Programas de las asignaturas | 🔜 |
+| Recursos y bibliografía | 🔜 |
+| Proyectos estudiantiles | 🔜 |
+| Producción académica | 🔜 |
+| Líneas de investigación | 🔜 |
+
+## Coordinación
+
+**Coordinador:** Dr. Alfredo Acurero
+
+## Contacto
+
+Para información académica y administrativa:
+
+📧 [mticluz.admision@gmail.com](mailto:mticluz.admision@gmail.com)
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Maestría en Tecnologías de Información y Comunicación</strong><br>
+  Universidad del Zulia · Facultad Experimental de Ciencias
+</p>
 
-**Maestría en Tecnologías de Información y Comunicación — Universidad del Zulia**
-
-*Conocimiento, investigación e innovación para la transformación digital.*
-
-</div>
+<p align="center">
+  <sub>Este espacio se encuentra en construcción y se actualizará progresivamente con información académica y recursos del programa.</sub>
+</p>
