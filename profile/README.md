@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="./assets/luz-logo.png" alt="Escudo de la Universidad del Zulia" width="118">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/postgrado-fec.jpg" alt="Logo del Posgrado de la Facultad Experimental de Ciencias" width="150">
-
-# Maestría en Tecnologías de Información y Comunicación
-
-### Universidad del Zulia · Facultad Experimental de Ciencias
-
-**Formación avanzada para investigar, diseñar y transformar organizaciones mediante las Tecnologías de Información y Comunicación.**
+<img src="./assets/banner-maestria-tic-luz.png" alt="Universidad del Zulia — Maestría en Tecnologías de Información y Comunicación. Investigación, innovación y transformación digital con impacto social." width="100%">
 
 [Conoce el programa](#conoce-el-programa) · [Plan de estudios](#plan-de-estudios) · [Admisión](#admisión) · [Investigación](#investigación)
 
